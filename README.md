@@ -1,7 +1,7 @@
 - 👋 Hi, My name is Banele Ndlovu. I'm a graduate student at William & Mary, studying Business Analytics
 - 👀 I’m interested in creating products and services that align with improving people's lives and helping businesses achieve their objectives
-- 🌱 I’m currently learning more about Data Analysis t and its fundamentals within Technology and Business
-- 📫 You can reach me through the following:
+- 🌱 I’m currently learning more about Data Analysis and its fundamentals within Technology and Business
+- 📫 Feel free to contact me through the following:
 banelendlovu732@gmail.com  or connect with me on https://www.linkedin.com/in/banele-ndlovu/
 
 <!---
