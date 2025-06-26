@@ -4,8 +4,9 @@ I'm passionate about building products and data infrastructure that solve real-w
 🌱 I believe in staying curious, collaborating with like-minded individuals and always solving with purpose.
 
 📫 Let's connect!
-Email: banelendlovu732@gmail.com
+Website: www.banelendlovu.com
 LinkedIn: linkedin.com/in/banele-ndlovu
+Substack: https://banelendlovu.substack.com/
 <!---
 banelendlovu/banelendlovu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
